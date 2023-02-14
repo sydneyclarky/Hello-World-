@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello World 👋
 
 - 🔭 I’m currently working on all of my school work and getting acquainted with this cool software!
 - 🌱 I’m currently learning how to use GitHub correctly!
